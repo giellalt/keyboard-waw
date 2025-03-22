@@ -3,5 +3,5 @@ provisioningProfileId: Test
 packageId: no.uit.giella.keyboards.waw
 bundleName: Waiwai Keyboards
 icon: images/waw-keyboard-menu-icon.png
-version: 0.1.0
+version: 0.1.2
 build: 1
